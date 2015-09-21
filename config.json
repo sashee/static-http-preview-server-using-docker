@@ -1,0 +1,7 @@
+{
+	"cookieSecret":"<add cookie secret here>",
+	"users": {
+		"userName":"password"
+	}
+}
+
